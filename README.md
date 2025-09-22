@@ -18,7 +18,6 @@
    </div>
 
 
-kkkk
 
 
 <picture align="center">
